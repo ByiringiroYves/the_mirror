@@ -65,4 +65,4 @@ This generates output in accordance with specific format specifiers, as demonstr
   
 	_printf("Unknown:[%r]\n");
 
-This was developed by *Yves BYIRINGIRO* and *Fiston UZABUMWANA*, who are members of ALX cohort 12.
+This was developed by **BYIRINGIRO Yves** and **UZABUMWANA Fiston**, ALX members cohort 12.
